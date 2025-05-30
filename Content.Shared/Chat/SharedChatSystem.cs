@@ -17,13 +17,13 @@ public abstract class SharedChatSystem : EntitySystem
     public const char LocalPrefix = '>';
     public const char ConsolePrefix = '/';
     public const char DeadPrefix = '\\';
-    public const char LOOCPrefix = '_'; // Russian-Localization
+    public const char LOOCPrefix = '(';
     public const char OOCPrefix = '[';
-    public const char EmotesPrefix = '%'; // Russian-Localization
+    public const char EmotesPrefix = '@';
     public const char EmotesAltPrefix = '*';
     public const char AdminPrefix = ']';
     public const char WhisperPrefix = ',';
-    public const char DefaultChannelKey = 'р'; // Russian-Localization
+    public const char DefaultChannelKey = ','; // Russian-Localization
     public const char CollectiveMindPrefix = '+'; // Sunrise-Edit
     // Sunrise-TTS-Start
     public const int VoiceRange = 10; // how far voice goes in world units
