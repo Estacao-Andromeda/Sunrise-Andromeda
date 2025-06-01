@@ -1,0 +1,15 @@
+make-ghost-role-menu-name = Brincando de fantasma.
+make-ghost-role-menu-entity = Alvos UID
+make-ghost-role-menu-role-name = Nome.
+make-ghost-role-menu-role-description = Descrição
+make-ghost-role-menu-role-rules = Regras
+make-ghost-role-menu-make-sentient = Tornar isso razoável?
+make-ghost-role-menu-raffle-enabled = Usar a loteria?
+make-ghost-role-menu-raffle-duration-initial = Duração básica (seg)
+make-ghost-role-menu-raffle-duration-extend = Aumente ao adicionar um jogador (seg)
+make-ghost-role-menu-raffle-duration-max = Duração máxima (seg)
+make-ghost-role-menu-done = Pronto.
+make-ghost-role-menu-duration-initial-error = A duração da base não deve exceder o máximo
+make-ghost-role-menu-raffle-disabled = Sem loteria.
+make-ghost-role-menu-raffle-custom = Suas configurações.
+make-ghost-role-menu-raffle-custom-new = { $ID } base { $initial } Seg, máximo. { $max } Seg, cada novo aumenta. { $extends } Seg

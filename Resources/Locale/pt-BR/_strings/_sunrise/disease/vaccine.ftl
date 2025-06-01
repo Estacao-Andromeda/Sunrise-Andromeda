@@ -1,0 +1,12 @@
+reagent-name-disease-blood = sangue turvo
+reagente-descrição-doença-ruim-físico-desc = desagradável
+reagente-descrição-doença-estranho-físico-desc = estranho
+verbo-mistura-vacinador = vacinador
+reagente-descrição-doença-sangue = um líquido muito estranho. Me lembra sangue
+reagente-nome-doença-sangue-reagente = líquido infectado
+reagente-nome-não-pronto-vacina = vírus
+reagente-descrição-não-pronto-vacina = este líquido desagradável não só não irá curá-lo, como também irá infectá-lo. Muito perigoso.
+reagente-nome-vacina = antivírus
+reagente-descrição-vacina = pode facilmente libertá-lo das amarras do vírus! Não se liga à imunidade.
+reagente-nome-vacina-plus = antiviral Plus
+reagente-descrição-vacina-plus = lhe dará imunidade ao vírus!

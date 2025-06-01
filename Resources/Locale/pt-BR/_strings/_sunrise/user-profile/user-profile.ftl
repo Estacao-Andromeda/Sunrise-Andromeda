@@ -1,0 +1,11 @@
+user-profile-no-sponsor = sponsor
+user-profile-sponsor-title = title
+user-profile-level = level:
+user-profile-social-links = links
+user-profile-sponsor-info-button = info
+user-profile-sponsor-buy-button = buy
+user-profile-service-link = link
+user-profile-service-discord = Discord:
+user-profile-service-telegram = Telegram:
+user-profile-service-github = GitHub:
+user-profile-service-reset = reset
